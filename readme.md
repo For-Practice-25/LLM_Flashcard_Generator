@@ -1,4 +1,4 @@
-# 📚 ShelfEx – Flashcard Generator using LLM
+Flashcard Generator using LLM
 
 **ShelfEx** is a simple app that takes educational text and uses a language model (LLM) to generate structured flashcards (question-answer format). Built using **Python**, **Streamlit**, and **Hugging Face Transformers**.
 
